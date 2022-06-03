@@ -1,8 +1,11 @@
 # YellowVelo
 The cycle shop!
 A django project shop with payment system(CloudyPSP).
+
 Backend:
+
 Python v 3.10
+
 Postgres
 
 P.S. Friendly with Docker

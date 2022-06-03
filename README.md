@@ -1,8 +1,11 @@
 # YellowVelo
- # Serious_PySam
-The most serious game about the most serious man. Stay serious!
+The cycle shop!
+A django project shop with payment system(CloudyPSP).
+Backend:
+Python v 3.10
+Postgres
 
-A simple game in Serious Sam universe.
+P.S. Friendly with Docker
 
 ## Getting Started
 

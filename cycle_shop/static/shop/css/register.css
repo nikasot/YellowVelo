@@ -1,0 +1,7 @@
+.my-btn-register{
+    border-width: 2px;
+    opacity: 0.9;
+}
+.my-btn-register:hover{
+    border-color: #212529;
+}

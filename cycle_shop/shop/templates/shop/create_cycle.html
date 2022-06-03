@@ -1,0 +1,41 @@
+{% extends 'shop/base.html' %}
+
+{% block title %}{% endblock title %}
+
+
+{% block content %}
+<div class="album py-5 bg-light">
+    <div class="container d-flex flex-column align-items-center justify-content-center">
+        <!--        {{ success }} &lt;!&ndash; Для отображения ошибок или успеха из вьюхи с методом form_valid/invalid&ndash;&gt;-->
+        <form class="needs-validation w-100 d-flex flex-column align-items-center" enctype="multipart/form-data"
+              method="post">
+            {% csrf_token %}
+            <div class="row g-3 d-flex flex-column align-items-center w-50">
+                {% for widget in form %}
+                {% if widget.label != 'Картинка' %}
+                <div class="col-12">
+                    {% else %}
+                    <div class="col-8">
+                        {% endif %}
+                        {{ widget.label_tag }}
+                        {{ widget }}
+                    </div>
+                    {% if widget.errors %}
+                    <ol>
+                        {% for error in widget.errors %}
+                        <li><strong class="text-danger">{{ error }}</strong></li>
+                        {% endfor %}
+                    </ol>
+                    {% endif %}
+                    {% endfor %}
+                    <!--                {{ form.as_p }} &lt;!&ndash; Обособить в теге <p>каждую форму &ndash;&gt;-->
+                </div>
+                <hr class="my-4">
+                <button class="w-25 btn btn-primary btn-lg" type="submit">Опубликовать</button>
+        </form>
+        {% if error %}
+        <p class="text-danger">{{ error }}</p>
+        {% endif %}
+    </div>
+</div>
+{% endblock content %}

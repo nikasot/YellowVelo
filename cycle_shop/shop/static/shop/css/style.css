@@ -1,0 +1,13 @@
+.icon-img{
+    border-radius: 50%;
+    max-width: 50px;
+}
+.my-text-red{
+    color: red;
+}
+.in-basket-button:visited{
+    color:red;
+}
+.my-personal-button{
+    color: transparent!important;
+}

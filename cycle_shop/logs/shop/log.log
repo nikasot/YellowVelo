@@ -1,0 +1,490 @@
+[INFO] {2022-04-26 00:39:17} | views | PID:21240 | TID:10860 | admin@admin.ru IP:127.0.0.1 | Path:/login | [Success login]
+[INFO] {2022-04-26 00:39:17} | views | PID:21240 | TID:10860 | admin@admin.ru IP:127.0.0.1 | Path:/ | Getting posts from db
+[INFO] {2022-04-26 00:39:47} | views | PID:21240 | TID:10860 | admin@admin.ru IP:127.0.0.1 | Path:/create_cycle | 
+Creating cycle... title: Test Cycle, category: 4, description: Test Description, price: 22222 
+[INFO] {2022-04-26 00:39:51} | views | PID:21240 | TID:10860 | AnonymousUser IP:127.0.0.1 | Path:/logout | [Logout]
+[INFO] {2022-04-26 00:39:51} | views | PID:21240 | TID:10860 | AnonymousUser IP:127.0.0.1 | Path:/ | Getting posts from db
+[INFO] {2022-04-27 21:09:34} | views | PID:23828 | TID:19884 | admin@admin.ru IP:127.0.0.1 | Path:/login | [Success login]
+[INFO] {2022-04-27 21:09:34} | views | PID:23828 | TID:19884 | admin@admin.ru IP:127.0.0.1 | Path:/ | Getting posts from db
+[INFO] {2022-04-27 21:09:35} | views | PID:23828 | TID:11272 | admin@admin.ru IP:127.0.0.1 | Path:/ | Getting posts from db
+[INFO] {2022-04-27 21:09:51} | views | PID:23828 | TID:11272 | admin@admin.ru IP:127.0.0.1 | Path:/ | Getting posts from db
+[INFO] {2022-04-30 19:05:09} | views | PID:19516 | TID:22340 | admin@admin.ru IP:127.0.0.1 | Path:/ | Getting posts from db
+[INFO] {2022-05-02 09:23:28} | views | PID:10 | TID:139824539510592 | AnonymousUser IP:172.31.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-02 09:23:32} | views | PID:10 | TID:139824539510592 | AnonymousUser IP:172.31.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-02 09:46:27} | views | PID:11 | TID:139729106847552 | admin@admin.ru IP:192.168.0.4 | Path:/login | [Success login]
+[INFO] {2022-05-02 09:46:27} | views | PID:11 | TID:139729106847552 | admin@admin.ru IP:192.168.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 11:19:17} | views | PID:15 | TID:140158090954560 | admin@admin.ru IP:192.168.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 11:19:18} | views | PID:15 | TID:140158090954560 | admin@admin.ru IP:192.168.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 11:21:32} | views | PID:15 | TID:140158090954560 | admin@admin.ru IP:192.168.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 11:24:59} | views | PID:11 | TID:140236448565056 | AnonymousUser IP:172.18.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 11:25:00} | views | PID:11 | TID:140236448565056 | AnonymousUser IP:172.18.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 11:25:02} | views | PID:11 | TID:140236448565056 | AnonymousUser IP:172.18.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 11:25:04} | views | PID:11 | TID:140236448565056 | AnonymousUser IP:172.18.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 11:25:07} | views | PID:11 | TID:140236448565056 | AnonymousUser IP:172.18.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 11:25:10} | views | PID:11 | TID:140236448565056 | AnonymousUser IP:172.18.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 13:56:23} | views | PID:11 | TID:140141037815616 | AnonymousUser IP:172.19.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 13:56:41} | views | PID:11 | TID:140141037815616 | AnonymousUser IP:172.19.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 13:57:06} | views | PID:11 | TID:140141037815616 | AnonymousUser IP:172.19.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 13:57:11} | views | PID:11 | TID:140141037815616 | user@user.ru IP:172.19.0.4 | Path:/login | [Success login]
+[INFO] {2022-05-08 13:57:11} | views | PID:11 | TID:140141037815616 | user@user.ru IP:172.19.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 13:59:59} | views | PID:11 | TID:140141037815616 | AnonymousUser IP:172.19.0.4 | Path:/logout | [Logout]
+[INFO] {2022-05-08 13:59:59} | views | PID:11 | TID:140141037815616 | AnonymousUser IP:172.19.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 14:00:07} | views | PID:11 | TID:140141037815616 | admin@admin.ru IP:172.19.0.4 | Path:/login | [Success login]
+[INFO] {2022-05-08 14:00:07} | views | PID:11 | TID:140141037815616 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 14:00:50} | views | PID:11 | TID:140141037815616 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 14:01:48} | views | PID:10 | TID:140584025888576 | AnonymousUser IP:172.20.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 14:08:03} | views | PID:10 | TID:140384256030528 | admin@admin.ru IP:172.21.0.4 | Path:/login | [Success login]
+[INFO] {2022-05-08 14:08:03} | views | PID:10 | TID:140384256030528 | admin@admin.ru IP:172.21.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 14:08:07} | views | PID:10 | TID:140384256030528 | AnonymousUser IP:172.21.0.4 | Path:/logout | [Logout]
+[INFO] {2022-05-08 14:08:07} | views | PID:10 | TID:140384256030528 | AnonymousUser IP:172.21.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 14:08:09} | views | PID:10 | TID:140384256030528 | admin@admin.ru IP:172.21.0.4 | Path:/login | [Success login]
+[INFO] {2022-05-08 14:08:09} | views | PID:10 | TID:140384256030528 | admin@admin.ru IP:172.21.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 14:08:28} | views | PID:10 | TID:140384256030528 | admin@admin.ru IP:172.21.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 14:09:42} | views | PID:11 | TID:140601585796928 | AnonymousUser IP:172.22.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 15:56:06} | views | PID:10 | TID:140099380778816 | AnonymousUser IP:172.29.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 15:57:17} | views | PID:10 | TID:140099380778816 | admin@admin.ru IP:172.29.0.4 | Path:/login | [Success login]
+[INFO] {2022-05-08 15:57:17} | views | PID:10 | TID:140099380778816 | admin@admin.ru IP:172.29.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 15:57:35} | views | PID:10 | TID:140099380778816 | admin@admin.ru IP:172.29.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 15:58:32} | views | PID:11 | TID:139779117365056 | AnonymousUser IP:172.30.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 15:58:33} | views | PID:11 | TID:139779117365056 | AnonymousUser IP:172.30.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 15:58:33} | views | PID:11 | TID:139779117365056 | AnonymousUser IP:172.30.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 15:58:33} | views | PID:11 | TID:139779117365056 | AnonymousUser IP:172.30.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 15:58:36} | views | PID:11 | TID:139779117365056 | AnonymousUser IP:172.30.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 15:58:39} | views | PID:11 | TID:139779117365056 | AnonymousUser IP:172.30.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 16:04:37} | views | PID:11 | TID:139798733072192 | admin@admin.ru IP:172.31.0.4 | Path:/login | [Success login]
+[INFO] {2022-05-08 16:04:37} | views | PID:11 | TID:139798733072192 | admin@admin.ru IP:172.31.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 16:04:53} | views | PID:11 | TID:139798733072192 | admin@admin.ru IP:172.31.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 16:07:43} | views | PID:11 | TID:140529423148864 | AnonymousUser IP:192.168.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 16:23:46} | views | PID:11 | TID:140481660323648 | admin@admin.ru IP:192.168.16.4 | Path:/login | [Success login]
+[INFO] {2022-05-08 16:23:46} | views | PID:11 | TID:140481660323648 | admin@admin.ru IP:192.168.16.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 16:23:59} | views | PID:11 | TID:140481660323648 | admin@admin.ru IP:192.168.16.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 16:29:44} | views | PID:10 | TID:140120511809344 | AnonymousUser IP:192.168.32.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 17:20:42} | views | PID:10 | TID:140699551631168 | AnonymousUser IP:192.168.128.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 17:26:41} | views | PID:11 | TID:140460753270592 | admin@admin.ru IP:192.168.144.4 | Path:/login | [Success login]
+[INFO] {2022-05-08 17:26:41} | views | PID:11 | TID:140460753270592 | admin@admin.ru IP:192.168.144.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 17:27:02} | views | PID:11 | TID:140460753270592 | admin@admin.ru IP:192.168.144.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 17:28:04} | views | PID:10 | TID:140527224731456 | admin@admin.ru IP:192.168.160.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 17:28:05} | views | PID:10 | TID:140527224731456 | admin@admin.ru IP:192.168.160.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 17:28:06} | views | PID:10 | TID:140527224731456 | admin@admin.ru IP:192.168.160.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 17:28:07} | views | PID:10 | TID:140527224731456 | admin@admin.ru IP:192.168.160.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 17:28:08} | views | PID:10 | TID:140527224731456 | AnonymousUser IP:192.168.160.4 | Path:/logout | [Logout]
+[INFO] {2022-05-08 17:28:08} | views | PID:10 | TID:140527224731456 | AnonymousUser IP:192.168.160.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-08 17:28:11} | views | PID:10 | TID:140527224731456 | admin@admin.ru IP:192.168.160.4 | Path:/login | [Success login]
+[INFO] {2022-05-08 17:28:11} | views | PID:10 | TID:140527224731456 | admin@admin.ru IP:192.168.160.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 11:07:06} | views | PID:11 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 11:07:07} | views | PID:11 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 11:07:54} | views | PID:11 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 11:09:06} | views | PID:11 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 11:19:34} | views | PID:13 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 11:19:36} | views | PID:13 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 11:19:39} | views | PID:13 | TID:140016105006912 | AnonymousUser IP:192.168.176.4 | Path:/logout | [Logout]
+[INFO] {2022-05-10 11:19:39} | views | PID:13 | TID:140016105006912 | AnonymousUser IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 11:19:50} | views | PID:13 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/login | [Success login]
+[INFO] {2022-05-10 11:19:50} | views | PID:13 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 11:25:32} | views | PID:15 | TID:140016105006912 | AnonymousUser IP:192.168.176.4 | Path:/logout | [Logout]
+[INFO] {2022-05-10 11:25:32} | views | PID:15 | TID:140016105006912 | AnonymousUser IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 11:25:35} | views | PID:15 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/login | [Success login]
+[INFO] {2022-05-10 11:25:35} | views | PID:15 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 11:28:40} | views | PID:15 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 11:42:26} | views | PID:15 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 11:42:37} | views | PID:15 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 11:42:39} | views | PID:15 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 11:43:11} | views | PID:15 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/create_cycle | 
+Creating cycle... title: Велосипед ALTAIR (Альтаир) MTB HT 24 low (2020), category: 1, description: Велосипед ALTAIR (Альтаир) MTB HT 24 low (2020) купить в магазине МОТОТЕКА недорого в Кемерово. Велосипед ALTAIR (Альтаир) MTB HT 24 low (2020) выделяется рядом отличительных особенностей и богатой комплектацией, а так же имеет положительные характеристики, высокий рейтинг и множество восторженных отзывов от покупателей. Выбирая Велосипед ALTAIR (Альтаир) MTB HT 24 low (2020), вы получаете высокое качество, легкость в обслуживании и продолжительный срок службы. Обращаем ваше внимание, что на всю линейку продукции этого бренда действует официальная гарантия! Вы можете приобрести Велосипед ALTAIR (Альтаир) MTB HT 24 low (2020) как в Кемерово, так и в любом другом городе. Мы осуществляем доставку по всей территории Российской Федерации. Продажа Велосипед ALTAIR (Альтаир) MTB HT 24 low (2020) осуществляется в рассрочку или кредит., price: 21000 
+[INFO] {2022-05-10 14:02:17} | views | PID:17 | TID:140016105006912 | AnonymousUser IP:192.168.176.4 | Path:/logout | [Logout]
+[INFO] {2022-05-10 14:02:17} | views | PID:17 | TID:140016105006912 | AnonymousUser IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 14:02:52} | views | PID:17 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/login | [Success login]
+[INFO] {2022-05-10 14:02:52} | views | PID:17 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 14:13:21} | views | PID:19 | TID:140016105006912 | AnonymousUser IP:192.168.176.4 | Path:/logout | [Logout]
+[INFO] {2022-05-10 14:13:21} | views | PID:19 | TID:140016105006912 | AnonymousUser IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 14:13:45} | views | PID:19 | TID:140016105006912 | AnonymousUser IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 14:13:50} | views | PID:19 | TID:140016105006912 | user@user.ru IP:192.168.176.4 | Path:/login | [Success login]
+[INFO] {2022-05-10 14:13:50} | views | PID:19 | TID:140016105006912 | user@user.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 14:14:32} | views | PID:19 | TID:140016105006912 | AnonymousUser IP:192.168.176.4 | Path:/logout | [Logout]
+[INFO] {2022-05-10 14:14:32} | views | PID:19 | TID:140016105006912 | AnonymousUser IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 14:14:34} | views | PID:19 | TID:140016105006912 | user@user.ru IP:192.168.176.4 | Path:/login | [Success login]
+[INFO] {2022-05-10 14:14:36} | views | PID:19 | TID:140016105006912 | user@user.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 14:29:09} | views | PID:31 | TID:140016105006912 | user@user.ru IP:192.168.176.4 | Path:/login | [Success login]
+[INFO] {2022-05-10 14:29:09} | views | PID:31 | TID:140016105006912 | user@user.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 14:29:41} | views | PID:31 | TID:140016105006912 | AnonymousUser IP:192.168.176.4 | Path:/logout | [Logout]
+[INFO] {2022-05-10 14:29:41} | views | PID:31 | TID:140016105006912 | AnonymousUser IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 14:29:45} | views | PID:31 | TID:140016105006912 | user@user.ru IP:192.168.176.4 | Path:/login | [Success login]
+[INFO] {2022-05-10 14:29:45} | views | PID:31 | TID:140016105006912 | user@user.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 14:30:00} | views | PID:33 | TID:140016105006912 | user@user.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 14:33:08} | views | PID:33 | TID:140016105006912 | AnonymousUser IP:192.168.176.4 | Path:/logout | [Logout]
+[INFO] {2022-05-10 14:33:08} | views | PID:33 | TID:140016105006912 | AnonymousUser IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 14:33:13} | views | PID:33 | TID:140016105006912 | user@user.ru IP:192.168.176.4 | Path:/login | [Success login]
+[INFO] {2022-05-10 14:33:13} | views | PID:33 | TID:140016105006912 | user@user.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 14:42:21} | views | PID:37 | TID:140016105006912 | user@user.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 14:42:26} | views | PID:37 | TID:140016105006912 | AnonymousUser IP:192.168.176.4 | Path:/logout | [Logout]
+[INFO] {2022-05-10 14:42:26} | views | PID:37 | TID:140016105006912 | AnonymousUser IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 14:42:29} | views | PID:37 | TID:140016105006912 | user@user.ru IP:192.168.176.4 | Path:/login | [Success login]
+[INFO] {2022-05-10 14:42:29} | views | PID:37 | TID:140016105006912 | user@user.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 14:42:48} | views | PID:37 | TID:140016105006912 | user@user.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-10 14:43:19} | views | PID:39 | TID:140016105006912 | user@user.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 17:56:41} | views | PID:77 | TID:140016105006912 | user@user.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 17:57:56} | views | PID:77 | TID:140016105006912 | user@user.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 17:59:09} | views | PID:77 | TID:140016105006912 | AnonymousUser IP:192.168.176.4 | Path:/logout | [Logout]
+[INFO] {2022-05-11 17:59:09} | views | PID:77 | TID:140016105006912 | AnonymousUser IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 17:59:13} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/login | [Success login]
+[INFO] {2022-05-11 17:59:13} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 17:59:37} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 17:59:37} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 17:59:42} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 17:59:43} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:00:06} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:00:07} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:00:11} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:00:11} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:00:12} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:00:12} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:00:12} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:00:21} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:00:21} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:00:21} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:00:22} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:00:30} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:00:31} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:01:52} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:02:46} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:02:58} | views | PID:77 | TID:140016105006912 | admin@admin.ru IP:192.168.176.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:50:26} | views | PID:46 | TID:140191314638656 | admin@admin.ru IP:192.168.208.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:51:08} | views | PID:46 | TID:140191314638656 | admin@admin.ru IP:192.168.208.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:56:15} | views | PID:48 | TID:140191314638656 | AnonymousUser IP:192.168.208.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:56:41} | views | PID:48 | TID:140191314638656 | admin@admin.ru IP:192.168.208.4 | Path:/login | [Success login]
+[INFO] {2022-05-11 18:56:41} | views | PID:48 | TID:140191314638656 | admin@admin.ru IP:192.168.208.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:57:21} | views | PID:48 | TID:140191314638656 | AnonymousUser IP:192.168.208.4 | Path:/logout | [Logout]
+[INFO] {2022-05-11 18:57:21} | views | PID:48 | TID:140191314638656 | AnonymousUser IP:192.168.208.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:58:31} | views | PID:48 | TID:140191314638656 | testadmin@admin.ru IP:192.168.208.4 | Path:/login | [Success login]
+[INFO] {2022-05-11 18:58:31} | views | PID:48 | TID:140191314638656 | testadmin@admin.ru IP:192.168.208.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:59:05} | views | PID:48 | TID:140191314638656 | AnonymousUser IP:192.168.208.4 | Path:/logout | [Logout]
+[INFO] {2022-05-11 18:59:05} | views | PID:48 | TID:140191314638656 | AnonymousUser IP:192.168.208.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:59:17} | views | PID:48 | TID:140191314638656 | testadmin@admin.ru IP:192.168.208.4 | Path:/login | [Success login]
+[INFO] {2022-05-11 18:59:17} | views | PID:48 | TID:140191314638656 | testadmin@admin.ru IP:192.168.208.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 18:59:26} | views | PID:48 | TID:140191314638656 | testadmin@admin.ru IP:192.168.208.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 19:00:07} | views | PID:48 | TID:140191314638656 | testadmin@admin.ru IP:192.168.208.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 19:01:11} | views | PID:48 | TID:140191314638656 | testadmin@admin.ru IP:192.168.208.4 | Path:/create_cycle | 
+Creating cycle... title: Горный велосипед Cube (Куб) Aim Race 29 (2020), category: 1, description: Горный велосипед Cube (Куб) Aim Race 29 (2020) купить в магазине МОТОТЕКА недорого в Кемерово. Горный велосипед Cube (Куб) Aim Race 29 (2020) выделяется рядом отличительных особенностей и богатой комплектацией, а так же имеет положительные характеристики, высокий рейтинг и множество восторженных отзывов от покупателей. Выбирая Горный велосипед Cube (Куб) Aim Race 29 (2020), вы получаете высокое качество, легкость в обслуживании и продолжительный срок службы. Обращаем ваше внимание, что на всю линейку продукции этого бренда действует официальная гарантия! Вы можете приобрести Горный велосипед Cube (Куб) Aim Race 29 (2020) как в Кемерово, так и в любом другом городе. Мы осуществляем доставку по всей территории Российской Федерации. Продажа Горный велосипед Cube (Куб) Aim Race 29 (2020) осуществляется в рассрочку или кредит.
+Горный велосипед Cube Aim Race 29 (2020) относится к категории велосипедов повышенной проходимости. За безопасное и своевременно переключение скоростей отвечает задний переключатель Shimano RD-M360-SGS, 8-Speed. Расход энергии контролируется благодаря продуманной системе Shimano FC-TX801, 42x32x22T, 170mm. Оборудование стандартной комплектации. Дисковые гидравлические тормоза велосипеда Shimano BR-MT200, Hydr. Disc Brake (160/160) обеспечивают контролируемое торможение. Фирменные покрышки Schwalbe Smart Sam, Active, 2.1 изготовлены из резины, гарантирующей хорошее сцепление с любой поверхностью. Седло Natural Fit Venec Lite спроектировано таким образом, чтобы свести к минимуму возникновение неправильной посадки. Классическая спортивная рама выполнена из алюминиевого сплава., price: 32000 
+[INFO] {2022-05-11 19:01:49} | views | PID:48 | TID:140191314638656 | testadmin@admin.ru IP:192.168.208.4 | Path:/create_cycle | 
+Creating cycle... title: Горный велосипед Forward (Форвард) Flash 26 2.2 S , category: 1, description: Горный велосипед Forward (Форвард) Flash 26 2.2 S Disc (2021) - это отличный вариант для любителей активного отдыха! Передние Power BX-351, 160/160 мм и задние Power BX-351, 160/160 мм тормоза не подведут в любую погоду и при любых условиях, это проверенная и надёжная технология. Также установлена надёжная трансмиссия с задним переключателем цепи Shimano Tourney RD-TY300 и передним переключателем Shimano Tourney FD-TY500. Прочное облегчённое седло FWD MTB для путешествий на дальние дистанции. Качественные покрышки , обладающие мощным сцеплением с грунтом. Несомненный плюс модели — рама Алюминиевый сплав 6061, качественно обеспечивающая равновесие, безопасность и динамичность поездок. Велосипед рекомендован под рост 150-180 см.
+
+Опытные консультанты помогут Вам купить горный велосипед или универсальный гибрид с доставкой к вам домой как через интернет-магазин, так и по телефону или в мессенджере. Оформление заказа займет минимум вашего времени.
+
+Закажите удобный и динамичный Горный велосипед Forward (Форвард) Flash 26 2.2 S Disc (2021) для себя или своего ребенка в нашем интернет-магазине. Уже через несколько дней вы сможете наслаждаться поездками на новом, маневренном и надежном велосипеде Forward! 
+
+Федеральная сеть техномаркетов Мототека предлагает купить Горный велосипед Forward (Форвард) Flash 26 2.2 S Disc (2021) по доступной цене в Кемерово. Официальный сайт продаж работает напрямую с производителем Forward. Это крупнейший бренд по производству и поставке качественных велосипедов разных типов в России и ближнем зарубежье. У нас на сайте представлен широкий выбор моделей велосипедов Forward. Вы можете подобрать любую из представленных моделей, подходящую под ваш стиль катания. В данной категории представлены велосипеды различных типов.
+
+Forward Flash — универсальный прочный хардтейл. С ним можно покорить любые дороги и направления. Каретка защищена от воздействия внешней среды: грязи, воды, пыли. Стальная рама, 21 скорость, дисковые механические тормоза., price: 27385 
+[INFO] {2022-05-11 19:02:33} | views | PID:48 | TID:140191314638656 | testadmin@admin.ru IP:192.168.208.4 | Path:/create_cycle | 
+Creating cycle... title: Велосипед Forward (Форвард) FUNKY 16 Boy (2019), category: 6, description: Представляем Вашему вниманию Велосипед Forward (Форвард) FUNKY 16 Boy (2019) в Кемерово в магазине МОТОТЕКА. Велосипед Forward (Форвард) FUNKY 16 Boy (2019) выделяется рядом отличительных особенностей и интересной комплектацией, а так же имеет высокий рейтинг и множество положительных отзывов от покупателей. Выбирая Велосипед Forward (Форвард) FUNKY 16 Boy (2019), Вы получаете высокое качество, легкость в обслуживании и продолжительный срок службы. Обращаем Ваше внимание, что на всю линейку продукции этого бренда действует официальная гарантия! Вы можете приобрести Велосипед Forward (Форвард) FUNKY 16 Boy (2019) как в Кемерово, так и в любом другом городе. Мы осуществляем доставку по всей территории Российской Федерации., price: 6290 
+[INFO] {2022-05-11 19:03:14} | views | PID:48 | TID:140191314638656 | testadmin@admin.ru IP:192.168.208.4 | Path:/create_cycle | 
+Creating cycle... title: Велосипед Forward (Форвард) INDIE JAM 1.0 (2019), category: 2, description: Представляем Вашему вниманию Велосипед Forward (Форвард) INDIE JAM 1.0 (2019) в Кемерово в магазине МОТОТЕКА. Велосипед Forward (Форвард) INDIE JAM 1.0 (2019) выделяется рядом отличительных особенностей и интересной комплектацией, а так же имеет высокий рейтинг и множество положительных отзывов от покупателей. Выбирая Велосипед Forward (Форвард) INDIE JAM 1.0 (2019), Вы получаете высокое качество, легкость в обслуживании и продолжительный срок службы. Обращаем Ваше внимание, что на всю линейку продукции этого бренда действует официальная гарантия! Вы можете приобрести Велосипед Forward (Форвард) INDIE JAM 1.0 (2019) как в Кемерово, так и в любом другом городе. Мы осуществляем доставку по всей территории Российской Федерации.
+, price: 5600 
+[INFO] {2022-05-11 19:03:16} | views | PID:48 | TID:140191314638656 | testadmin@admin.ru IP:192.168.208.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 19:20:55} | views | PID:10 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 19:21:54} | views | PID:10 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-11 19:22:09} | views | PID:10 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 19:51:45} | views | PID:16 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-12 19:51:45} | views | PID:16 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 19:51:55} | views | PID:16 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 19:51:55} | views | PID:16 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 19:52:55} | views | PID:16 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-12 19:52:55} | views | PID:16 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 19:53:01} | views | PID:16 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 19:53:01} | views | PID:16 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 19:53:43} | views | PID:16 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-12 19:53:43} | views | PID:16 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 19:54:20} | views | PID:16 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 19:54:20} | views | PID:16 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 19:54:37} | views | PID:16 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-12 19:54:37} | views | PID:16 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 19:54:44} | views | PID:16 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 19:54:44} | views | PID:16 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:03:16} | views | PID:18 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:03:22} | views | PID:18 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-12 20:03:22} | views | PID:18 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:04:59} | views | PID:20 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:05:27} | views | PID:20 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:16:39} | views | PID:26 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:16:44} | views | PID:26 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:16:44} | views | PID:26 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:17:08} | views | PID:28 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:17:08} | views | PID:28 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:17:19} | views | PID:28 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-12 20:17:19} | views | PID:28 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:17:24} | views | PID:28 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:17:24} | views | PID:28 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:18:21} | views | PID:30 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:18:24} | views | PID:30 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-12 20:18:24} | views | PID:30 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:18:31} | views | PID:30 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:20:33} | views | PID:32 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:20:33} | views | PID:32 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:20:39} | views | PID:32 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:21:37} | views | PID:34 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:21:49} | views | PID:34 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:21:56} | views | PID:34 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:21:58} | views | PID:34 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-12 20:21:58} | views | PID:34 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:22:01} | views | PID:34 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:22:49} | views | PID:36 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:22:53} | views | PID:36 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:23:13} | views | PID:38 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:23:16} | views | PID:38 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:23:19} | views | PID:38 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:25:00} | views | PID:40 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:27:11} | views | PID:40 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:27:23} | views | PID:40 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:28:14} | views | PID:40 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:28:17} | views | PID:40 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-12 20:28:17} | views | PID:40 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:28:23} | views | PID:40 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:29:05} | views | PID:40 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:29:07} | views | PID:40 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-12 20:29:07} | views | PID:40 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:29:12} | views | PID:40 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:30:18} | views | PID:42 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:30:18} | views | PID:42 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:30:22} | views | PID:42 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-12 20:30:22} | views | PID:42 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:30:27} | views | PID:42 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:48:49} | views | PID:44 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-12 20:48:50} | views | PID:44 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:48:55} | views | PID:44 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:49:34} | views | PID:46 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:50:02} | views | PID:48 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:50:32} | views | PID:48 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:51:57} | views | PID:48 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:54:32} | views | PID:50 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-12 20:54:32} | views | PID:50 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:54:36} | views | PID:50 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-12 20:54:36} | views | PID:50 | TID:139868164077376 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-12 20:54:43} | views | PID:50 | TID:139868164077376 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 12:49:31} | views | PID:11 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-15 12:49:31} | views | PID:11 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-15 12:49:37} | views | PID:11 | TID:140476290688832 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 12:50:11} | views | PID:13 | TID:140476290688832 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 12:50:54} | views | PID:15 | TID:140476290688832 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 12:52:15} | views | PID:17 | TID:140476290688832 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 12:52:26} | views | PID:19 | TID:140476290688832 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 13:22:40} | views | PID:21 | TID:140476290688832 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 13:22:46} | views | PID:21 | TID:140476290688832 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 13:29:42} | views | PID:29 | TID:140476290688832 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 13:30:33} | views | PID:31 | TID:140476290688832 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 13:35:18} | views | PID:33 | TID:140476290688832 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 13:35:47} | views | PID:35 | TID:140476290688832 | testadmin@admin.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-15 13:35:48} | views | PID:35 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-15 13:35:48} | views | PID:35 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-15 13:35:54} | views | PID:35 | TID:140476290688832 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 13:36:04} | views | PID:37 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-15 13:36:04} | views | PID:37 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-15 13:36:09} | views | PID:37 | TID:140476290688832 | testadmin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 13:37:53} | views | PID:37 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-15 13:37:53} | views | PID:37 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-15 13:37:57} | views | PID:37 | TID:140476290688832 | user@user.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 13:37:57} | views | PID:37 | TID:140476290688832 | user@user.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-15 13:38:19} | views | PID:37 | TID:140476290688832 | user@user.ru IP:192.168.224.4 | Path:/create_cycle | 
+Creating cycle... title: 123, category: 1, description: 123, price: 27385 
+[INFO] {2022-05-15 13:38:22} | views | PID:37 | TID:140476290688832 | user@user.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-15 13:53:50} | views | PID:39 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-15 13:53:50} | views | PID:39 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-15 13:53:55} | views | PID:39 | TID:140476290688832 | admin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 13:53:55} | views | PID:39 | TID:140476290688832 | admin@admin.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-15 14:00:59} | views | PID:45 | TID:140476290688832 | admin@admin.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-15 14:01:29} | views | PID:47 | TID:140476290688832 | admin@admin.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-15 14:01:31} | views | PID:47 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-15 14:01:31} | views | PID:47 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-15 14:01:36} | views | PID:47 | TID:140476290688832 | user@user.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 14:01:36} | views | PID:47 | TID:140476290688832 | user@user.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-15 14:04:28} | views | PID:49 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-15 14:04:28} | views | PID:49 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-15 14:04:33} | views | PID:49 | TID:140476290688832 | admin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 14:04:33} | views | PID:49 | TID:140476290688832 | admin@admin.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-15 14:04:36} | views | PID:49 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-15 14:04:36} | views | PID:49 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-15 14:04:42} | views | PID:49 | TID:140476290688832 | user@user.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 14:04:42} | views | PID:49 | TID:140476290688832 | user@user.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-15 14:07:13} | views | PID:51 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-15 14:07:13} | views | PID:51 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-15 14:07:21} | views | PID:51 | TID:140476290688832 | user@user.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 14:07:28} | views | PID:51 | TID:140476290688832 | admin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 14:12:40} | views | PID:51 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-15 14:12:40} | views | PID:51 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-15 14:24:49} | views | PID:53 | TID:140476290688832 | admin@admin.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 14:24:51} | views | PID:53 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/logout | [Logout]
+[INFO] {2022-05-15 14:24:51} | views | PID:53 | TID:140476290688832 | AnonymousUser IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-15 14:24:59} | views | PID:53 | TID:140476290688832 | user@user.ru IP:192.168.224.4 | Path:/login | [Success login]
+[INFO] {2022-05-15 14:25:02} | views | PID:53 | TID:140476290688832 | user@user.ru IP:192.168.224.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-23 13:35:55} | views | PID:11 | TID:140267477215040 | user@user.ru IP:172.18.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-05-23 17:25:32} | views | PID:13 | TID:140261366060864 | user@user.ru IP:172.20.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-06-01 18:01:42} | views | PID:11 | TID:140699456251712 | AnonymousUser IP:172.19.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-06-01 18:08:04} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/login | [Success login]
+[INFO] {2022-06-01 18:08:05} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-06-01 18:08:33} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/create_cycle | 
+Creating cycle... title: 26" Велосипед ТECHTEAM ELIS 17" ALLOY,DISK, category: 2, description: Представляем Вашему вниманию Велосипед ТECHTEAM ELIS 17" (2022) в Кемерово в магазине YellowVelo. Велосипед ECHTEAM ELIS 17" (2022) выделяется рядом отличительных особенностей и интересной комплектацией, а так же имеет высокий рейтинг и множество положительных отзывов от покупателей. Выбирая Велосипед ECHTEAM ELIS 17" (2022), Вы получаете высокое качество, легкость в обслуживании и продолжительный срок службы. Обращаем Ваше внимание, что на всю линейку продукции этого бренда действует официальная гарантия! Вы можете приобрести Велосипед ECHTEAM ELIS 17" (2022) как в Кемерово, так и в любом другом городе. Мы осуществляем доставку по всей территории Российской Федерации., price: 28500 
+[INFO] {2022-06-01 18:08:40} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-06-01 18:12:42} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/create_cycle | 
+Creating cycle... title: Женский велосипед Forward (Форвард) Talica 28 3.0 , category: 2, description: Женский велосипед Forward (Форвард) Talica 28 3.0 (2021) - это отличный вариант для любителей активного отдыха! Передние и задние тормоза не подведут в любую погоду и при любых условиях, это проверенная и надёжная технология. Также установлена надёжная трансмиссия с задним переключателем цепи и передним переключателем . Прочное облегчённое седло для путешествий на дальние дистанции. Качественные покрышки Wanda P1134 700x45C (22TPI), обладающие мощным сцеплением с грунтом. Несомненный плюс модели — рама Сталь Hi-Ten, качественно обеспечивающая равновесие, безопасность и динамичность поездок. Велосипед рекомендован под рост 180-190 см.
+
+Опытные консультанты помогут Вам купить горный велосипед или универсальный гибрид с доставкой к вам домой как через интернет-магазин, так и по телефону или в мессенджере. Оформление заказа займет минимум вашего времени., price: 25590 
+[INFO] {2022-06-01 18:15:22} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-06-01 18:15:57} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/create_cycle | 
+Creating cycle... title: Велосипед ALTAIR (Альтаир) MTB FS 20 D (2022), category: 6, description: Велосипед ALTAIR (Альтаир) MTB FS 20 D (2022) купить в магазине МОТОТЕКА недорого в Кемерово. Велосипед ALTAIR (Альтаир) MTB FS 20 D (2022) выделяется рядом отличительных особенностей и богатой комплектацией, а так же имеет положительные характеристики, высокий рейтинг и множество восторженных отзывов от покупателей. Выбирая Велосипед ALTAIR (Альтаир) MTB FS 20 D (2022), вы получаете высокое качество, легкость в обслуживании и продолжительный срок службы. Обращаем ваше внимание, что на всю линейку продукции этого бренда действует официальная гарантия! Вы можете приобрести Велосипед ALTAIR (Альтаир) MTB FS 20 D (2022) как в Кемерово, так и в любом другом городе. Мы осуществляем доставку по всей территории Российской Федерации. Продажа Велосипед ALTAIR (Альтаир) MTB FS 20 D (2022) осуществляется в рассрочку или кредит., price: 22090 
+[INFO] {2022-06-01 18:16:01} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-06-01 18:16:43} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-06-01 18:17:09} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-06-01 18:23:39} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/create_cycle | 
+Creating cycle... title: Электровелосипед Merida (Мерида) eOne - Forty 8000, category: 1, description: Электровелосипед Merida (Мерида) eOne - Forty 8000 (2021) купить в магазине МОТОТЕКА недорого в Кемерово. Электровелосипед Merida (Мерида) eOne - Forty 8000 (2021) выделяется рядом отличительных особенностей и богатой комплектацией, а так же имеет положительные характеристики, высокий рейтинг и множество восторженных отзывов от покупателей. Выбирая Электровелосипед Merida (Мерида) eOne - Forty 8000 (2021), вы получаете высокое качество, легкость в обслуживании и продолжительный срок службы. Обращаем ваше внимание, что на всю линейку продукции этого бренда действует официальная гарантия! Вы можете приобрести Электровелосипед Merida (Мерида) eOne - Forty 8000 (2021) как в Кемерово, так и в любом другом городе. Мы осуществляем доставку по всей территории Российской Федерации. Продажа Электровелосипед Merida (Мерида) eOne - Forty 8000 (2021) осуществляется в рассрочку или кредит.
+
+Merida eOne-Forty 8000 (2021) – это надёжный электровелосипед. Задний переключатель Shimano XT RDM8100 Shadow+ 12 помогает легко регулировать передачи, менять параметры движения. Велосипед собран на основе карбоновой рамы eONE-FORTY CFA II. Педали крепятся к шатунам Shimano CRE80-12-B 34 teeth Shimano FCEM600. Вилка FOX Rhythm 34 Float eMTB+ эффективна и легка. Седло MERIDA EXPERT CC в специальном дизайне спортивного класса. Дисковые гидравлические тормоза Shimano SLX быстро останавливают колеса независимо от скорости передвижения. На модель установлено профессиональное оборудование. Колёса оснащены фирменными покрышками Trail King 29x2.4 " fold BlackChili ProTection Apex TR, удобными для катания по городскому асфальту и дачным тропам., price: 412000 
+[INFO] {2022-06-01 18:27:22} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/create_cycle | 
+Creating cycle... title: Двухподвесный велосипед Merida Ninety-Six RC 5000 , category: 1, description: Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) купить в магазине МОТОТЕКА недорого в Кемерово. Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) выделяется рядом отличительных особенностей и богатой комплектацией, а так же имеет положительные характеристики, высокий рейтинг и множество восторженных отзывов от покупателей. Выбирая Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021), вы получаете высокое качество, легкость в обслуживании и продолжительный срок службы. Обращаем ваше внимание, что на всю линейку продукции этого бренда действует официальная гарантия! Вы можете приобрести Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) как в Кемерово, так и в любом другом городе. Мы осуществляем доставку по всей территории Российской Федерации. Продажа Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) осуществляется в рассрочку или кредит.
+Двухподвесный велосипед Merida Ninety-Six RC 5000 (2021) – элегантная модель, обладающая накатистыми колесами, удобной рамой и продуманным дизайном. Современное седло MERIDA COMP CC для динамичного катания. Эргономичная и прочная система Shimano Deore M6100 32 teeth обеспечит эффективное кручение педалей. Велосипед отлично держит дорогу за счет широких колес с качественными покрышками Maxxis Rekon Race 29x2.25" fold TR EXO 120 TPI. За безопасное и своевременно переключение скоростей отвечает задний переключатель Shimano XT M8100 Shadow+. На модель установлено профессиональное оборудование. Велосипед подходит для езды при любой погоде – за надежное сцепление и торможение в ответе дисковые гидравлические тормоза Shimano SLX M7110 и фирменные покрышки. Карбоновая рама NINETY-SIX RC CF4 III имеет высокую сопротивляемость к износу., price: 90520 
+[INFO] {2022-06-01 18:27:37} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/create_cycle | 
+Creating cycle... title: Двухподвесный велосипед Merida Ninety-Six RC 5000, category: 1, description: Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) купить в магазине МОТОТЕКА недорого в Кемерово. Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) выделяется рядом отличительных особенностей и богатой комплектацией, а так же имеет положительные характеристики, высокий рейтинг и множество восторженных отзывов от покупателей. Выбирая Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021), вы получаете высокое качество, легкость в обслуживании и продолжительный срок службы. Обращаем ваше внимание, что на всю линейку продукции этого бренда действует официальная гарантия! Вы можете приобрести Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) как в Кемерово, так и в любом другом городе. Мы осуществляем доставку по всей территории Российской Федерации. Продажа Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) осуществляется в рассрочку или кредит.
+Двухподвесный велосипед Merida Ninety-Six RC 5000 (2021) – элегантная модель, обладающая накатистыми колесами, удобной рамой и продуманным дизайном. Современное седло MERIDA COMP CC для динамичного катания. Эргономичная и прочная система Shimano Deore M6100 32 teeth обеспечит эффективное кручение педалей. Велосипед отлично держит дорогу за счет широких колес с качественными покрышками Maxxis Rekon Race 29x2.25" fold TR EXO 120 TPI. За безопасное и своевременно переключение скоростей отвечает задний переключатель Shimano XT M8100 Shadow+. На модель установлено профессиональное оборудование. Велосипед подходит для езды при любой погоде – за надежное сцепление и торможение в ответе дисковые гидравлические тормоза Shimano SLX M7110 и фирменные покрышки. Карбоновая рама NINETY-SIX RC CF4 III имеет высокую сопротивляемость к износу., price: 90520 
+[INFO] {2022-06-01 18:27:50} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/create_cycle | 
+Creating cycle... title: Двухподвесный велосипед Merida Ninety-Six RC 5000, category: 1, description: Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) купить в магазине МОТОТЕКА недорого в Кемерово. Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) выделяется рядом отличительных особенностей и богатой комплектацией, а так же имеет положительные характеристики, высокий рейтинг и множество восторженных отзывов от покупателей. Выбирая Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021), вы получаете высокое качество, легкость в обслуживании и продолжительный срок службы. Обращаем ваше внимание, что на всю линейку продукции этого бренда действует официальная гарантия! Вы можете приобрести Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) как в Кемерово, так и в любом другом городе. Мы осуществляем доставку по всей территории Российской Федерации. Продажа Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) осуществляется в рассрочку или кредит.
+Двухподвесный велосипед Merida Ninety-Six RC 5000 (2021) – элегантная модель, обладающая накатистыми колесами, удобной рамой и продуманным дизайном. Современное седло MERIDA COMP CC для динамичного катания. Эргономичная и прочная система Shimano Deore M6100 32 teeth обеспечит эффективное кручение педалей. Велосипед отлично держит дорогу за счет широких колес с качественными покрышками Maxxis Rekon Race 29x2.25" fold TR EXO 120 TPI. За безопасное и своевременно переключение скоростей отвечает задний переключатель Shimano XT M8100 Shadow+. На модель установлено профессиональное оборудование. Велосипед подходит для езды при любой погоде – за надежное сцепление и торможение в ответе дисковые гидравлические тормоза Shimano SLX M7110 и фирменные покрышки. , price: 90520 
+[INFO] {2022-06-01 18:28:31} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/create_cycle | 
+Creating cycle... title: Двухподвесный велосипед Merida Ninety-Six RC 5000, category: 1, description: Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) купить в магазине МОТОТЕКА недорого в Кемерово. Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) выделяется рядом отличительных особенностей и богатой комплектацией, а так же имеет положительные характеристики, высокий рейтинг и множество восторженных отзывов от покупателей. Выбирая Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021), вы получаете высокое качество, легкость в обслуживании и продолжительный срок службы. Обращаем ваше внимание, что на всю линейку продукции этого бренда действует официальная гарантия! Вы можете приобрести Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) как в Кемерово, так и в любом другом городе. Мы осуществляем доставку по всей территории Российской Федерации. Продажа Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) осуществляется в рассрочку или кредит.
+Двухподвесный велосипед Merida Ninety-Six RC 5000 (2021) – элегантная модель, обладающая накатистыми колесами, удобной рамой и продуманным дизайном. Современное седло MERIDA COMP CC для динамичного катания. Эргономичная и прочная система Shimano Deore M6100 32 teeth обеспечит эффективное кручение педалей. Велосипед отлично держит дорогу за счет широких колес с качественными покрышками Maxxis Rekon Race 29x2.25" fold TR EXO 120 TPI. За безопасное и своевременно переключение скоростей отвечает задний переключатель Shimano XT M8100 Shadow+. На модель установлено профессиональное оборудование. Велосипед подходит для езды при любой погоде – за надежное сцепление и торможение в ответе дисковые гидравлические тормоза Shimano SLX M7110 и фирменные покрышки. , price: 90520 
+[INFO] {2022-06-01 18:28:58} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/create_cycle | 
+Creating cycle... title: Двухподвесный велосипед Merida Ninety-Six RC 5000, category: 1, description: Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) купить в магазине МОТОТЕКА недорого в Кемерово. Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) выделяется рядом отличительных особенностей и богатой комплектацией, а так же имеет положительные характеристики, высокий рейтинг и множество восторженных отзывов от покупателей. Выбирая Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021), вы получаете высокое качество, легкость в обслуживании и продолжительный срок службы. Обращаем ваше внимание, что на всю линейку продукции этого бренда действует официальная гарантия! Вы можете приобрести Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) как в Кемерово, так и в любом другом городе. Мы осуществляем доставку по всей территории Российской Федерации. Продажа Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) осуществляется в рассрочку или кредит.
+Двухподвесный велосипед Merida Ninety-Six RC 5000 (2021) – элегантная модель, обладающая накатистыми колесами, удобной рамой и продуманным дизайном. Современное седло MERIDA COMP CC для динамичного катания. Эргономичная и прочная система Shimano Deore M6100 32 teeth обеспечит эффективное кручение педалей. Велосипед отлично держит дорогу за счет широких колес с качественными покрышками Maxxis Rekon Race 29x2.25" fold TR EXO 120 TPI. За безопасное и своевременно переключение скоростей отвечает задний переключатель Shimano XT M8100 Shadow+. На модель установлено профессиональное оборудование. Велосипед подходит для езды при любой погоде – за надежное сцепление и торможение в ответе дисковые гидравлические тормоза Shimano SLX M7110 и фирменные покрышки. Карбоновая рама NINETY-SIX RC CF4 III имеет высокую сопротивляемость к износу., price: 90520 
+[INFO] {2022-06-01 18:29:34} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/create_cycle | 
+Creating cycle... title: Двухподвесный велосипед Merida Ninety-Six RC5000, category: 1, description: Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) купить в магазине МОТОТЕКА недорого в Кемерово. Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) выделяется рядом отличительных особенностей и богатой комплектацией, а так же имеет положительные характеристики, высокий рейтинг и множество восторженных отзывов от покупателей. Выбирая Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021), вы получаете высокое качество, легкость в обслуживании и продолжительный срок службы. Обращаем ваше внимание, что на всю линейку продукции этого бренда действует официальная гарантия! Вы можете приобрести Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) как в Кемерово, так и в любом другом городе. Мы осуществляем доставку по всей территории Российской Федерации. Продажа Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) осуществляется в рассрочку или кредит.
+Двухподвесный велосипед Merida Ninety-Six RC 5000 (2021) – элегантная модель, обладающая накатистыми колесами, удобной рамой и продуманным дизайном. Современное седло MERIDA COMP CC для динамичного катания. Эргономичная и прочная система Shimano Deore M6100 32 teeth обеспечит эффективное кручение педалей. Велосипед отлично держит дорогу за счет широких колес с качественными покрышками Maxxis Rekon Race 29x2.25" fold TR EXO 120 TPI. За безопасное и своевременно переключение скоростей отвечает задний переключатель Shimano XT M8100 Shadow+. На модель установлено профессиональное оборудование. Велосипед подходит для езды при любой погоде – за надежное сцепление и торможение в ответе дисковые гидравлические тормоза Shimano SLX M7110 и фирменные покрышки. Карбоновая рама NINETY-SIX RC CF4 III имеет высокую сопротивляемость к износу., price: 90520 
+[INFO] {2022-06-01 18:29:45} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/create_cycle | 
+Creating cycle... title: Двухподвесный велосипед Merida Ninety-Six RC5000, category: 1, description: Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) купить в магазине МОТОТЕКА недорого в Кемерово. Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) выделяется рядом отличительных особенностей и богатой комплектацией, а так же имеет положительные характеристики, высокий рейтинг и множество восторженных отзывов от покупателей. Выбирая Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021), вы получаете высокое качество, легкость в обслуживании и продолжительный срок службы. Обращаем ваше внимание, что на всю линейку продукции этого бренда действует официальная гарантия! Вы можете приобрести Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) как в Кемерово, так и в любом другом городе. Мы осуществляем доставку по всей территории Российской Федерации. Продажа Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) осуществляется в рассрочку или кредит., price: 90520 
+[INFO] {2022-06-01 18:29:59} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/create_cycle | 
+Creating cycle... title: Двухподвесный вело Merida Ninety-Six RC5000, category: 1, description: Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) купить в магазине МОТОТЕКА недорого в Кемерово. Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) выделяется рядом отличительных особенностей и богатой комплектацией, а так же имеет положительные характеристики, высокий рейтинг и множество восторженных отзывов от покупателей. Выбирая Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021), вы получаете высокое качество, легкость в обслуживании и продолжительный срок службы. Обращаем ваше внимание, что на всю линейку продукции этого бренда действует официальная гарантия! Вы можете приобрести Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) как в Кемерово, так и в любом другом городе. Мы осуществляем доставку по всей территории Российской Федерации. Продажа Двухподвесный велосипед Merida (Мерида) Ninety - Six RC 5000 (2021) осуществляется в рассрочку или кредит., price: 90520 
+[INFO] {2022-06-01 18:32:38} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/create_cycle | 
+Creating cycle... title: Двухподвесный вело Merida One-Sixty 7000 (2020), category: 1, description: Двухподвесный велосипед Merida (Мерида) One - Sixty 7000 (2020) купить в магазине МОТОТЕКА недорого в Кемерово. Двухподвесный велосипед Merida (Мерида) One - Sixty 7000 (2020) выделяется рядом отличительных особенностей и богатой комплектацией, а так же имеет положительные характеристики, высокий рейтинг и множество восторженных отзывов от покупателей. Выбирая Двухподвесный велосипед Merida (Мерида) One - Sixty 7000 (2020), вы получаете высокое качество, легкость в обслуживании и продолжительный срок службы. Обращаем ваше внимание, что на всю линейку продукции этого бренда действует официальная гарантия! Вы можете приобрести Двухподвесный велосипед Merida (Мерида) One - Sixty 7000 (2020) как в Кемерово, так и в любом другом городе. Мы осуществляем доставку по всей территории Российской Федерации. Продажа Двухподвесный велосипед Merida (Мерида) One - Sixty 7000 (2020) осуществляется в рассрочку или кредит.
+Двухподвес Merida One-Sixty 7000 (2020) предназначен как для спокойного катания в городских условиях, так и для езды с препятствиями. Шатуны 170 mm-S up великолепно передают энергию велосипедиста от педалей к звёздочкам. Рама ONE-SIXTY CFA изготовлена из алюминиевого сплава, поэтому её выносливость находится на очень высоким уровне. На велосипеде стоят дисковые гидравлические тормоза Shimano XT, которые дают точный результат даже в неблагоприятную погоду. Качественные покрышки Maxxis Assegai, обладающие мощным сцеплением с грунтом. Модель оборудована спортивным седлом MERIDA EXPERT CC для активной езды. Модель укомплектована профессиональным уровнем оборудования. За безопасное и своевременно переключение скоростей отвечает задний переключатель Shimano XT M8100 Shadow+., price: 150000 
+[INFO] {2022-06-01 18:32:42} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-06-01 18:32:50} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-06-01 18:35:19} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/create_cycle | 
+Creating cycle... title: Горный велосипед Merida One-Twenty 8000(2021), category: 1, description: Горный велосипед Merida (Мерида) One - Twenty 8000 (2021) купить в магазине МОТОТЕКА недорого в Кемерово. Горный велосипед Merida (Мерида) One - Twenty 8000 (2021) выделяется рядом отличительных особенностей и богатой комплектацией, а так же имеет положительные характеристики, высокий рейтинг и множество восторженных отзывов от покупателей. Выбирая Горный велосипед Merida (Мерида) One - Twenty 8000 (2021), вы получаете высокое качество, легкость в обслуживании и продолжительный срок службы. Обращаем ваше внимание, что на всю линейку продукции этого бренда действует официальная гарантия! Вы можете приобрести Горный велосипед Merida (Мерида) One - Twenty 8000 (2021) как в Кемерово, так и в любом другом городе. Мы осуществляем доставку по всей территории Российской Федерации. Продажа Горный велосипед Merida (Мерида) One - Twenty 8000 (2021) осуществляется в рассрочку или кредит.
+Двухподвесный велосипед Merida One-Twenty 8000 (2021) относится к профессиональному уровню. Навесное оборудование также включает в себя шатуны класса Sram Carbon GX Eagle 34 teeth. У велосипеда дисковые гидравлические тормоза Sram Code RSC, которые срабатывают всегда точно и эффективно. Карбоновая рама ONE-TWENTY CF4 разработана с учетом всех требований, чтобы обеспечить Вам комфортную и плавную езду. Покрышки Maxxis Dissector 29x2.4" fold TR EXO 3C MaxxTerra обладают высокими цепкостью и накатом. Задний переключатель Sram GX Eagle помогает легко регулировать передачи, менять параметры движения. На модель установлено профессиональное оборудование. Мягкая вилка Rock Shox Pike Ultimate позволит с легкостью преодолевать бордюры. Модель оснащена седлом MERIDA EXPERT CC спортивной геометрии.
+, price: 136000 
+[INFO] {2022-06-01 18:37:03} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/create_cycle | 
+Creating cycle... title: Двухподвесный велосипед Forward (Форвард) Flare 27, category: 1, description: Двухподвесный велосипед Forward (Форвард) Flare 27,5 2.0 Disc (2020) - это отличный вариант для любителей активного отдыха! Передние Tektro MD-M280, 160/160 мм и задние Tektro MD-M280, 160/160 мм тормоза не подведут в любую погоду и при любых условиях, это проверенная и надёжная технология. Также установлена надёжная трансмиссия с задним переключателем цепи Shimano Altus RD-M2000 и передним переключателем . Прочное облегчённое седло FWD MTB для путешествий на дальние дистанции. Качественные покрышки , обладающие мощным сцеплением с грунтом. Несомненный плюс модели — рама Алюминиевый сплав 6061, нескладная, качественно обеспечивающая равновесие, безопасность и динамичность поездок. Велосипед рекомендован под рост 180-190 см.
+
+Опытные консультанты помогут Вам купить горный велосипед или универсальный гибрид с доставкой к вам домой как через интернет-магазин, так и по телефону или в мессенджере. Оформление заказа займет минимум вашего времени.
+
+Закажите удобный и динамичный Двухподвесный велосипед Forward (Форвард) Flare 27,5 2.0 Disc (2020) для себя или своего ребенка в нашем интернет-магазине. Уже через несколько дней вы сможете наслаждаться поездками на новом, маневренном и надежном велосипеде Forward! , price: 98000 
+[INFO] {2022-06-01 18:37:14} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/create_cycle | 
+Creating cycle... title: Двухподвесный велосипед Forward (Форвард) Flare 27, category: 1, description: Двухподвесный велосипед Forward (Форвард) Flare 27,5 2.0 Disc (2020) - это отличный вариант для любителей активного отдыха! Передние Tektro MD-M280, 160/160 мм и задние Tektro MD-M280, 160/160 мм тормоза не подведут в любую погоду и при любых условиях, это проверенная и надёжная технология. Также установлена надёжная трансмиссия с задним переключателем цепи Shimano Altus RD-M2000 и передним переключателем . Прочное облегчённое седло FWD MTB для путешествий на дальние дистанции. Качественные покрышки , обладающие мощным сцеплением с грунтом. Несомненный плюс модели — рама Алюминиевый сплав 6061, нескладная, качественно обеспечивающая равновесие, безопасность и динамичность поездок. Велосипед рекомендован под рост 180-190 см.
+Опытные консультанты помогут Вам купить горный велосипед или универсальный гибрид с доставкой к вам домой как через интернет-магазин, так и по телефону или в мессенджере. Оформление заказа займет минимум вашего времени.
+Закажите удобный и динамичный Двухподвесный велосипед Forward (Форвард) Flare 27,5 2.0 Disc (2020) для себя или своего ребенка в нашем интернет-магазине. Уже через несколько дней вы сможете наслаждаться поездками на новом, маневренном и надежном велосипеде Forward! , price: 98000 
+[INFO] {2022-06-01 18:37:34} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/create_cycle | 
+Creating cycle... title: Двухподвесный велосипед Forward (Форвард) Flare 27, category: 1, description: Двухподвесный велосипед Forward (Форвард) Flare 27,5 2.0 Disc (2020) - это отличный вариант для любителей активного отдыха! Передние Tektro MD-M280, 160/160 мм и задние Tektro MD-M280, 160/160 мм тормоза не подведут в любую погоду и при любых условиях, это проверенная и надёжная технология. Также установлена надёжная трансмиссия с задним переключателем цепи Shimano Altus RD-M2000 и передним переключателем . Прочное облегчённое седло FWD MTB для путешествий на дальние дистанции. Качественные покрышки , обладающие мощным сцеплением с грунтом. Несомненный плюс модели — рама Алюминиевый сплав 6061, нескладная, качественно обеспечивающая равновесие, безопасность и динамичность поездок. Велосипед рекомендован под рост 180-190 см.
+Закажите удобный и динамичный Двухподвесный велосипед Forward (Форвард) Flare 27,5 2.0 Disc (2020) для себя или своего ребенка в нашем интернет-магазине. Уже через несколько дней вы сможете наслаждаться поездками на новом, маневренном и надежном велосипеде Forward! , price: 98000 
+[INFO] {2022-06-01 18:37:46} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/create_cycle | 
+Creating cycle... title: Двухподвесный вело Forward (Форвард) Flare 27, category: 1, description: Двухподвесный велосипед Forward (Форвард) Flare 27,5 2.0 Disc (2020) - это отличный вариант для любителей активного отдыха! Передние Tektro MD-M280, 160/160 мм и задние Tektro MD-M280, 160/160 мм тормоза не подведут в любую погоду и при любых условиях, это проверенная и надёжная технология. Также установлена надёжная трансмиссия с задним переключателем цепи Shimano Altus RD-M2000 и передним переключателем . Прочное облегчённое седло FWD MTB для путешествий на дальние дистанции. Качественные покрышки , обладающие мощным сцеплением с грунтом. Несомненный плюс модели — рама Алюминиевый сплав 6061, нескладная, качественно обеспечивающая равновесие, безопасность и динамичность поездок. Велосипед рекомендован под рост 180-190 см.
+Закажите удобный и динамичный Двухподвесный велосипед Forward (Форвард) Flare 27,5 2.0 Disc (2020) для себя или своего ребенка в нашем интернет-магазине. Уже через несколько дней вы сможете наслаждаться поездками на новом, маневренном и надежном велосипеде Forward! , price: 98000 
+[INFO] {2022-06-01 18:38:09} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-06-01 18:41:08} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/create_cycle | 
+Creating cycle... title: Двухподвесный велосипед Merida One-Forty (2020), category: 1, description: Двухподвесный велосипед Merida (Мерида) One - Forty 400 (2020) купить в магазине МОТОТЕКА недорого в Кемерово. Двухподвесный велосипед Merida (Мерида) One - Forty 400 (2020) выделяется рядом отличительных особенностей и богатой комплектацией, а так же имеет положительные характеристики, высокий рейтинг и множество восторженных отзывов от покупателей. Выбирая Двухподвесный велосипед Merida (Мерида) One - Forty 400 (2020), вы получаете высокое качество, легкость в обслуживании и продолжительный срок службы. Обращаем ваше внимание, что на всю линейку продукции этого бренда действует официальная гарантия! Вы можете приобрести Двухподвесный велосипед Merida (Мерида) One - Forty 400 (2020) как в Кемерово, так и в любом другом городе. Мы осуществляем доставку по всей территории Российской Федерации. Продажа Двухподвесный велосипед Merida (Мерида) One - Forty 400 (2020) осуществляется в рассрочку или кредит.
+Двухподвес Merida One-Forty 400 (2020) предназначен как для спокойного катания в городских условиях, так и для езды с препятствиями. Седло MERIDA COMP CC рассчитано на установку на горные велосипеды. Мощные шатуны интенсивно передают усилия мышц на вал каретки. Обода оформлены утолщенными ребристыми покрышками Maxxis Forekaster. Для быстрых остановок используются отлично себя проявляющие дисковые гидравлические тормоза Shimano MT-200. Задний переключатель Sram SX Eagle помогает легко регулировать передачи, менять параметры движения. Уровень оборудования – профессиональный. Особого внимания заслуживает рама ONE-FORTY LITE, выполненная из алюминиевого сплава., price: 126000 
+[INFO] {2022-06-01 18:43:02} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/create_cycle | 
+Creating cycle... title: Горный велосипед Merida One-Twenty 400 (2021), category: 1, description: Горный велосипед Merida (Мерида) One - Twenty 400 (2021) купить в магазине МОТОТЕКА недорого в Мичуринске. Горный велосипед Merida (Мерида) One - Twenty 400 (2021) выделяется рядом отличительных особенностей и богатой комплектацией, а так же имеет положительные характеристики, высокий рейтинг и множество восторженных отзывов от покупателей. Выбирая Горный велосипед Merida (Мерида) One - Twenty 400 (2021), вы получаете высокое качество, легкость в обслуживании и продолжительный срок службы. Обращаем ваше внимание, что на всю линейку продукции этого бренда действует официальная гарантия! Вы можете приобрести Горный велосипед Merida (Мерида) One - Twenty 400 (2021) как в Мичуринске, так и в любом другом городе. Мы осуществляем доставку по всей территории Российской Федерации. Продажа Горный велосипед Merida (Мерида) One - Twenty 400 (2021) осуществляется в рассрочку или кредит.
+Двухподвесный велосипед Merida One-Twenty 400 (2021) – это стильный дизайн и хорошие технические параметры. Вилка Suntour XCR34 LOR идеальна для бездорожья. Седло MERIDA COMP CC для каждодневных поездок. Колеса с покрышками Maxxis Rekon 29x2.4" wire – достаточно прочные и динамичные, идеальны для преодоления препятствий. Продвинутое оборудование. Лёгкий и эффективный велопривод, система Shimano Deore M5100; 32 ATC. Дисковые гидравлические тормоза Tektro M275 Вас не подведут, это проверенная и надёжная технология. Алюминиевая рама рассчитана на высокие нагрузки. Изменить скоростной режим можно при помощи переключателя Shimano Deore M5100 Shadow+., price: 161500 
+[INFO] {2022-06-01 18:43:05} | views | PID:11 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting posts from db
+[INFO] {2022-06-01 19:10:13} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:12:15} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:12:16} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:12:22} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:12:24} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:12:27} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:15:40} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:22:15} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:30:05} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:30:38} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:30:39} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:31:15} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:31:17} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:31:20} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:32:22} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:32:30} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:33:40} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:34:36} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:35:14} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:35:16} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:35:19} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:35:23} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:35:25} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:35:28} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:36:22} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:37:25} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:37:31} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:37:32} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:37:56} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:38:06} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:38:18} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:38:31} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:38:35} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:38:54} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:39:04} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:39:20} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:39:29} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:39:45} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:40:31} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:40:34} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:40:36} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:40:37} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:40:57} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:41:00} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:41:12} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:41:59} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:42:43} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:42:56} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:43:07} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:44:04} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:44:20} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:44:33} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:44:36} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:44:40} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:46:37} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:46:53} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:47:01} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:47:02} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:47:02} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:47:03} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:47:03} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:47:03} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:48:09} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:49:00} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:49:01} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:49:01} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:49:01} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:49:01} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:49:01} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:49:06} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:49:07} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:49:07} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:49:07} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:49:20} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:49:57} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:50:33} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:52:36} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:52:38} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:52:45} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:53:30} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:53:34} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:53:36} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:55:30} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:55:38} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:57:16} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:57:43} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:57:57} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:58:20} | views | PID:13 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:59:06} | views | PID:15 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:59:08} | views | PID:15 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:59:32} | views | PID:15 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:59:33} | views | PID:15 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 19:59:35} | views | PID:15 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 20:01:21} | views | PID:15 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db
+[INFO] {2022-06-01 20:02:20} | views | PID:15 | TID:140699456251712 | admin@admin.ru IP:172.19.0.4 | Path:/ | Getting cycles from db

@@ -1,0 +1,45 @@
+{% extends 'shop/base.html' %}
+{% load static %}
+
+{% block content %}
+<div class="container">
+    <main>
+        <div>
+            <h3>Результаты запроса:</h3>
+        </div>
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-3">
+            {% for cycle in cycles %}
+            <div class="col">
+                <div class="card h-80 cycle-wrap-inside">
+                    <div class="scaler p-1">
+                        <a href="{% url 'shop:show_cycle' cycle.slug %}" class="link-secondary"><img
+                                class="card-img-top img-overlay my-img-cycle" src="{{ cycle.image.url }}"></a>
+                    </div>
+                    <div class="card-body">
+                        <h6 class="card-title text-center img-title">{{ cycle.title }}</h6>
+                    </div>
+                    <div class="card-footer d-flex justify-content-between">
+                        <div class="d-flex flex-column">
+                            <h6 class="text-muted">Цена:&nbsp</h6>
+                            <h6> {{ cycle.price }} ₽.</h6>
+                        </div>
+                        <div class="d-flex align-items-center justify-content-between ">
+                            <a href="#">
+                                <button type="button" class="btn btn-outline-dark me-2 btn-md">В корзину</button>
+                            </a>
+                            <a href="#">
+                                <button type="button" class="btn btn-warning btn-md">Купить</button>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% empty %}
+            <h3 class="text-nowrap">К сожалению по вашему запросу ничего не удалось найти :*(</h3>
+            {% endfor %}
+        </div>
+    </main>
+</div>
+
+
+{% endblock content %}

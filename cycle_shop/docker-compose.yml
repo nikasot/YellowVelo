@@ -1,0 +1,39 @@
+version: "3"
+
+
+
+services:
+  postgresdb:
+    restart: always
+    build:
+      context: ./docker/postgres
+      dockerfile: Dockerfile
+    environment:
+      - POSTGRES_PASSWORD=postgres12345
+    volumes:
+      - ./data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+  web:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    volumes:
+      - ./:/django_app
+    ports:
+      - "8000:8000"
+    depends_on:
+      - postgresdb
+
+  nginx:
+    build:
+      context: ./docker/nginx
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+    depends_on:
+      - postgresdb
+      - web
+    volumes:
+      - ./static/:/static
+      - ./media/:/media

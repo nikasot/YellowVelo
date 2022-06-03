@@ -1,0 +1,23 @@
+.category-wrap{
+    display: flex
+}
+
+.category-wrap-inside{
+    flex: auto;
+    box-shadow: 0 0.005rem 0.125rem #ffc107 !important;
+}
+.category-wrap-inside:hover{
+    box-shadow: 0 0.075rem 0.25rem #ffc107 !important;
+}
+
+.category-image{
+    max-height:200px;
+    max-width:200px
+}
+
+.cycle-wrap-inside:hover{
+    box-shadow: 0 0.075rem 0.25rem #ffc107 !important;
+}
+.my-img-cycle{
+    max-height: 170px;
+}

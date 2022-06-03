@@ -13,27 +13,28 @@ P.S. Friendly with Docker
 ## Getting Started
 
 ### Installing
-The game is alpha state, but if you want to play, you need to do these steps below.
+If you want to open it locally, you need to do these steps below.
 
 Step 1. Clone this repo
 
-Step 2. Install requirements:
+Step 2. Install Docker from https://www.docker.com/
+
+P.S. look docs(https://docs.docker.com/desktop/windows/install/)
+
+Step 3. Move to `cycle_shop` dir:
+
 ```
-pip install -r requirements.txt
+cd cycle_shop
 ```
 
-Step 3. Move to `serious_pysam` dir:
+Step 4. Run the project
 ```
-cd serious_pysam
-```
-
-Step 4. Start the game:
-```
-python run.py
+docker-compose up -d --build
 ```
 
-### Game settings
-You can change game settings (e.g. enemy count, bullet speed) - see the [config.py](serious_pysam/config.py) file.
+Step 5. Take pleasure
+
+Site is on 127.0.0.1
 
 ## License
 
